@@ -2,14 +2,26 @@
     <string name="app_name">3.3.1.AppResources_Portrait_Lanscape</string>
 
     <string name="textViewInputNumbers">0</string>
-    <string name="textViewE1">#</string>
-    <string name="textViewE2">$</string>
-    <string name="textViewE3">^</string>
-    <string name="textViewE4">"@"</string>
-    <string name="textViewE5">"O"</string>
-    <string name="textViewE6">( )</string>
-    <string name="textViewE7">V</string>
-    <string name="textViewE8">|</string>
+
+    <string name="textViewButtonMC">MC</string>
+    <string name="textViewButtonMR">MR</string>
+    <string name="textViewButtonMPlus">M+</string>
+    <string name="textViewButtonMMinus">M-</string>
+
+    <string name="textViewButtonC">C</string>
+    <string name="textViewButtonPlusMinus">+/-</string>
+    <string name="textViewButton1SlashX">1/X</string>
+    <string name="textViewButtonSqrt">Sqrt</string>
+
+    <string name="textViewButtonCos">cos</string>
+    <string name="textViewButtonSin">sin</string>
+    <string name="textViewButtonTan">tan</string>
+    <string name="textViewButtonAtan">atan</string>
+
+    <string name="textViewFactorial">n!</string>
+    <string name="textViewLg">lg</string>
+    <string name="textViewLn">ln</string>
+    <string name="textViewRad">rad</string>
 
     <string name="textViewButton1">1</string>
     <string name="textViewButton2">2</string>
@@ -22,15 +34,10 @@
     <string name="textViewButton9">9</string>
     <string name="textViewButton0">0</string>
     <string name="textViewButtonDot">.</string>
-    <string name="textViewButtonChange">E</string>
-    <string name="textViewButtonC">C</string>
-    <string name="textViewButtonPlusMinus">+/-</string>
-    <string name="textViewButtonPercent">%</string>
-
-    <string name="textViewButtonDivision">/</string>
-    <string name="textViewButtonMulti">X</string>
-    <string name="textViewButtonMinus">-</string>
     <string name="textViewButtonPlus">+</string>
     <string name="textViewButtonEqual">=</string>
+    <string name="textViewButtonDivision">/</string>
+    <string name="textViewButtonMulti">*</string>
+    <string name="textViewButtonMinus">-</string>
 
 </resources>
